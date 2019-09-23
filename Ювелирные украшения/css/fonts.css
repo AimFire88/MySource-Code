@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Ubuntu Light"; /* ָלÿ רנטפעא */
+    src: url(../font/3972.ttf); /* ֿףעü ך פאיכף סמ רנטפעמל */
+   }
+.my_font {
+    font-family: 'Ubuntu Light';
+   }
